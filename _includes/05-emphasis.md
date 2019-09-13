@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Mathematics and Public Health student at Brown University with focus in **epidemiology and GIS**. Expected graduation: *May 2020*
