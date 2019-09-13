@@ -1,0 +1,4 @@
+- [] Hiking
+  - [] Backpacking
+- [] Movies
+- [] Museums
